@@ -1,0 +1,27 @@
+---
+title: "Kickoff"
+author: "Peter Ganong and Maggie Shi"
+date-format: March 2, 2026
+format: 
+    revealjs:
+        slide-number: true
+        show-slide-number: all
+        self-contained: true
+---
+## Final exam: lockdown browser 
+* Re Ed post: we apologize for the technical issues!
+* Likely related to a campus-wide network slowdown Thursday afternoon>
+
+> We are currently experiencing intermittent Internet slowness and connectivity drops due to unusually high utilization across our campus network. This issue began yesterday and has continued sporadically.
+
+> To mitigate the impact, we have applied rate-limiting controls to the subnets with the highest bandwidth usage. 
+
+## This week
+* Labs cancelled
+* OH open for final project help
+* We will upload feedback on your presentations on Gradescope after -- please take a look to respond
+
+## Plan for today
+* Dice roll to decide speaker
+* 10 min/talk -- any extra time will be for questions
+* I will give 2 minute and 0 minute warnings
